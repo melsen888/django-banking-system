@@ -1,0 +1,15 @@
+# .gitignore
+
+# Database
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Static files collected
+staticfiles/
+
+# Lingkungan virtual (jika ada)
+venv/
+env/
